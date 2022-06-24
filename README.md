@@ -10,11 +10,11 @@ The flowchart of the MIMO-NOS:
 ## Dependency
 - Python (3.6.9 or above)
 - numpy
-- pytorch '1.10.0+cu102'
+- pytorch 1.10.0+cu102
 - visdom
 
 ## Reproduce
-Basicly, one can reproduce the PER results following two steps:
+Basically, one can reproduce the PER results following two steps:
 
 ### Learn a good codebook
 
@@ -39,7 +39,7 @@ for *Per-branch* sorting, while run **looped_kbest_ls.py** for *Per-layer* sorti
 ## Baseline
 
 Polar with maximum-likelihood (**ML**) MIMO detection serves as the baseline. We select Polar with CRC because of its superior performance 
-in short block length. Moreover, the **optimal ML** detector is to ensure a good baseline.
+in short block length. Moreover, the **optimal ML** detector ensures a good baseline.
 
 Run the matlab code **mypolar.m** to obtain the PER curve.
 
@@ -51,4 +51,4 @@ PER performance for 64-bit packet transmission under 4x4 MIMO.
 Moreover, the proposed MIMO-NOS is able to process with faster speed compared to the baseline.
 
 ## Acknowledge
-I've graduated successfully as a master student in the EECS department of the University of Michigan. Many thanks to my supervisor Hunseok and the group members, Mingyu, Chinwei and Changwoo in the lab!
+I've graduated successfully as a master student in the EECS department of the University of Michigan. Many thanks to my supervisor Hunseok and the group members, Mingyu, Chinwei and Changwoo!
