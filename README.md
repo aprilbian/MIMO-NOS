@@ -5,7 +5,7 @@ Source Code for My Master Thesis in Umich, submitted to possible journal publica
 Apply deep learning based joint coding and modulation scheme termed as **NOS** code (Near-Orthogonal Superposition code) to the multi-input multi-output (**MIMO**) system for short packet transmission. Simulation results show the proposed scheme outperforms maximum likelihood (ML) MIMO detection combined with a polar code with CRC-assisted list decoding by 1 - 2 dB in various MIMO systems for short (32 - 64 bit) message transmission. 
 
 The flowchart of the MIMO-NOS:
-![avatar](flowchart.pdf)
+![avatar](https://github.com/aprilbian/MIMO-NOS/blob/main/flowchart.pdf)
 
 ## Dependency
 - Python (3.6.9 or above)
