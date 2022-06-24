@@ -47,7 +47,7 @@ Run the matlab code **mypolar.m** to obtain the PER curve.
 
 ## Performance
 PER performance for 64-bit packet transmission under 4x4 MIMO.
-<img src="V8.png" width="500px">
+<div align=center><img src="V8.png" width="500px" alt="V=8,M=256,Nt=Nr=4" ></div>
 
 Moreover, the proposed MIMO-NOS is able to process with faster speed compared to the baseline.
 
