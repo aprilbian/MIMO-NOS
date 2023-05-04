@@ -1,5 +1,5 @@
 # MIMO-NOS
-Source Code for My Master Thesis in Umich, "Learning-Based Near-Orthogonal Superposition Code for MIMO Short Message Transmission", submitted to possible journal publication.
+Source Code for My Master Thesis in Umich, "Learning-Based Near-Orthogonal Superposition Code for MIMO Short Message Transmission", accepted to IEEE Transactions on Communications, 2023.
 
 ## Introduction
 Apply deep learning based joint coding and modulation scheme termed as **NOS** code (Near-Orthogonal Superposition code) to the multi-input multi-output (**MIMO**) system for short packet transmission. Simulation results show the proposed scheme outperforms maximum likelihood (ML) MIMO detection combined with a polar code with CRC-assisted list decoding by 1 - 2 dB in various MIMO systems for short (32 - 64 bit) message transmission. 
